@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "797018513747",
+    "firebase_url": "https://miniworkshop-df308-default-rtdb.firebaseio.com",
+    "project_id": "miniworkshop-df308",
+    "storage_bucket": "miniworkshop-df308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797018513747:android:de4f8d60e44c1e5219c1a6",
+        "android_client_info": {
+          "package_name": "com.RNZApp.MiniWorkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797018513747-inhe9cjgboslk2aq2grjmldg5rggiucc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDryNg_R4ndP1V_NijwCYTgEGyYxLK9OJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797018513747-inhe9cjgboslk2aq2grjmldg5rggiucc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797018513747:android:ebba94f25f43c5b119c1a6",
+        "android_client_info": {
+          "package_name": "com.rnzcompany.MiniWorkshop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797018513747-inhe9cjgboslk2aq2grjmldg5rggiucc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDryNg_R4ndP1V_NijwCYTgEGyYxLK9OJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797018513747-inhe9cjgboslk2aq2grjmldg5rggiucc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
